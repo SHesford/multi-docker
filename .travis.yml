@@ -19,4 +19,4 @@ after_success:
   - docker push sjhesford/multi-client
   - docker push sjhesford/multi-nginx
   - docker push sjhesford/multi-server
-  - docker push sjhesford/multi-w
+  - docker push sjhesford/multi-worker
